@@ -1,0 +1,23 @@
+{
+  "name": "js_exercises",
+  "version": "1.0.0",
+  "description": "Some JS exercises summed up in the learning process",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunxiao91/js_exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chunxiao91/js_exercises/issues"
+  },
+  "homepage": "https://github.com/chunxiao91/js_exercises#readme"
+}

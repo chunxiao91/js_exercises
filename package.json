@@ -4,7 +4,8 @@
   "description": "Some JS exercises summed up in the learning process",
   "main": "index.js",
   "dependencies": {
-    "jest": "^27.2.4"
+    "jest": "^27.2.4",
+    "loadsh": "0.0.4"
   },
   "devDependencies": {},
   "scripts": {

@@ -2,11 +2,14 @@
 const arr1 = [5,6,7,8,9]
 const arr2 = []
 // const arr5 = [{key1:11},{key2:22}]
+
+
 // 普通函数常规做法
 for(let i =0; i< arr1.length; i++){
     arr2.push(arr1[i]*2)
 }
 console.log(arr2)
+
 
 // 使用map函数
 const arr3 = arr1.map(function(item, index, arr){
@@ -16,6 +19,7 @@ const arr3 = arr1.map(function(item, index, arr){
     return item * 2
 })
 console.log(arr3)
+
 
 // 使用map 与箭头函数
 const arr4 = arr1.map(item=>item*2)

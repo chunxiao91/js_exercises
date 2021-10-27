@@ -10,3 +10,5 @@ let newAge = persons.filter(
     item => item.age >25
 )
 console.log(newAge)
+
+// 结果:[ { name: 'Emily', age: 28 }, { name: 'Josn', age: 56 } ]

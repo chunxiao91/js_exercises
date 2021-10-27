@@ -15,3 +15,16 @@ let newArr = arr2.reduce((perv,cur)=>{
     return perv
 },[])
 console.log(newArr)
+
+
+// _.reduce(res.data, (pre, value, key) => {
+//     pre[key] = _.map(
+//         value,
+//         item => ({
+//             ...item,
+//             key: item.item_code || '',
+//             value: item.item_name || '',
+//         })
+//     )
+//     return pre
+// }, {})

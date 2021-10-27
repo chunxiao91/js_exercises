@@ -1,3 +1,5 @@
+// 高阶函数 reduce
+
 // 数组求和
 let arr = [1,2,3,4,5]
 let sum = arr.reduce((perv,cur)=>{

@@ -1,3 +1,5 @@
+// 高阶函数：filter
+
 // 将对象数组中年龄大于25周岁的 对象输出
 let persons = [
     {'name':'Perter', age:21},
